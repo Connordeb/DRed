@@ -1,0 +1,3 @@
+A(X) :- src_A(X)
+B(X) :- src_B(X)
+C(X) :- src_C(X)

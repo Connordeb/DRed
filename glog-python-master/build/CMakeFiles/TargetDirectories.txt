@@ -1,0 +1,4 @@
+/home/connor/PycharmProjects/final/glog-python-master/build/CMakeFiles/rebuild_cache.dir
+/home/connor/PycharmProjects/final/glog-python-master/build/CMakeFiles/edit_cache.dir
+/home/connor/PycharmProjects/final/glog-python-master/build/CMakeFiles/glogp.dir
+/home/connor/PycharmProjects/final/glog-python-master/build/CMakeFiles/git-glog.dir

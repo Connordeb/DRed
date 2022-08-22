@@ -1,0 +1,3 @@
+repository='https://github.com/karmaresearch/glog.git'
+module=''
+tag='origin'

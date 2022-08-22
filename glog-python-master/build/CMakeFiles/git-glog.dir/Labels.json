@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/connor/PycharmProjects/final/glog-python-master/build/CMakeFiles/git-glog"
+		},
+		{
+			"file" : "/home/connor/PycharmProjects/final/glog-python-master/build/CMakeFiles/git-glog.rule"
+		},
+		{
+			"file" : "/home/connor/PycharmProjects/final/glog-python-master/build/CMakeFiles/git-glog-complete.rule"
+		},
+		{
+			"file" : "/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-install.rule"
+		},
+		{
+			"file" : "/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-mkdir.rule"
+		},
+		{
+			"file" : "/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-download.rule"
+		},
+		{
+			"file" : "/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-update.rule"
+		},
+		{
+			"file" : "/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-patch.rule"
+		},
+		{
+			"file" : "/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-configure.rule"
+		},
+		{
+			"file" : "/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"git-glog"
+		],
+		"name" : "git-glog"
+	}
+}

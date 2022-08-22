@@ -1,0 +1,13 @@
+# Target labels
+ git-glog
+# Source files and their labels
+/home/connor/PycharmProjects/final/glog-python-master/build/CMakeFiles/git-glog
+/home/connor/PycharmProjects/final/glog-python-master/build/CMakeFiles/git-glog.rule
+/home/connor/PycharmProjects/final/glog-python-master/build/CMakeFiles/git-glog-complete.rule
+/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-install.rule
+/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-mkdir.rule
+/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-download.rule
+/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-update.rule
+/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-patch.rule
+/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-configure.rule
+/home/connor/PycharmProjects/final/glog-python-master/build/git-glog-prefix/src/git-glog-stamp/git-glog-build.rule
